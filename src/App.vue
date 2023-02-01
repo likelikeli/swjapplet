@@ -7,10 +7,7 @@
 <script>
 
 export default {
-     components:{},
-  created(){
-    // console.log(this.$store)
-  },
+  components:{},
   mounted(){
     NProgress.done()
     //   console.log(this.$store)
